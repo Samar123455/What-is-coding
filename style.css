@@ -1,0 +1,36 @@
+#intro-image{
+    height: 500px;
+    width:95%;
+
+}
+
+#container{
+    width: 80%;
+    color: white;
+}
+
+#unordered-list{
+    text-align: left;
+  
+}
+
+#pointer:hover{
+  cursor: pointer;
+}
+
+#age-catogories{
+    text-align: left;
+}
+
+#codecademy{
+    
+    text-align: left;
+    
+}
+
+#image{
+    border: white;
+    border-width: 5px;
+    border-radius: 0px;
+    border-style: solid;
+}
